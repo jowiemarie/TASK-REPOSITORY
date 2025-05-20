@@ -3,6 +3,7 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    int Age = 20;
+    printf("The Age is %d", Age);
     return 0;
 }
